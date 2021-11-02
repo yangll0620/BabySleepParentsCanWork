@@ -10,3 +10,9 @@ To-do-list:
 - [ ] Read live video from Yi camera
 - [ ] Read heart rate and oxygen level Owlet smart socks. 
 - [ ] Display on one screen. 
+
+Unofficial Owlet api:
+https://github.com/BastianPoe/owlet_api
+
+YI camera api:
+https://github.com/YITechnology/YIOpenAPI
