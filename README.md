@@ -1,9 +1,9 @@
 # BabySleepParentsCanWork
 A system for new parents can work after baby get sleep.
 
-Owlet smart socks and camera system is a good system for monitoring baby, however the Owlet camera is sucks. YI camera is a way cheaper and better option for monitoring babies. I am gonna combine these two together to one app, and use the app to monitor the baby. 
+Owlet smart socks and camera system are good systems for monitoring baby, however the Owlet camera is sucks. YI camera is a way cheaper and better option for monitoring babies. I am gonna combine these two together to one, and use the app to monitor the baby. 
 
-App platform: iOS
+App platform: iOS and Chrome Plugin
 
 To-do-list:
 
