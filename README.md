@@ -20,3 +20,6 @@ https://github.com/YITechnology/YIOpenAPI
 YI camera hack, it can ran on a browser if the yi camera was hacked:
 https://github.com/fritz-smh/yi-hack
 https://github.com/TheCrypt0/yi-hack-v4
+
+
+Edited something to try push on github
